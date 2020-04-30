@@ -78,6 +78,7 @@ function App(props) {
   const texts = Text["Terms and Conditions"].texts
   const listIndex = Text["Terms and Conditions"].listIndex
   const linkIndex = Text["Terms and Conditions"].linkIndex
+  window.alert("dswf");
 // console.log(texts)
   return (
     <div className="App container">
